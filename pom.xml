@@ -77,5 +77,17 @@
 			</plugin>
 		</plugins>
 	</build>
+	<distributionManagement>
+		<repository>
+			<id>maven-releases</id>
+			<ur>http:3.108.249.240:8081/reposistory/maven-releases/</url>
+			</reposistory>
+		<snapshotrepository>
+			<id>maven-snapshots</id>
+			<ur>http:3.108.249.240:8081/reposistory/maven-releases/</url>
+			</reposistory>
+			</distributionManagemnt>
+				
+				
 
 </project>
